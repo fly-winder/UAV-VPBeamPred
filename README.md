@@ -185,11 +185,11 @@ If you find this repository useful for your research, please consider citing our
 
 ```bibtex
 @article{nie2026robust,
-  title   = {Robust Predictive mmWave Beamforming for UAV Communications via Vision-Position Fusion},
-  author  = {Nie, Jiali and others},
-  journal = {IEEE Transactions on Vehicular Technology},
-  year    = {2026},
-  note    = {Under review}
-}
-
-
+  author={Nie, Jiali and Han, Yu and Cui, Yuanhao and Jin, Shi and Wen, Chao-Kai},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Robust Predictive mmWave Beamforming for UAV Communications via Vision-Position Fusion}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TVT.2026.3727437}}
